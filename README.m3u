@@ -1,0 +1,111 @@
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Channels",AE Mundo
+http://45.71.185.142:8500/play/a01i
+#EXTINF:0 tvg-id="AXN.bg" group-title="Channels",AXN
+http://45.71.185.142:8500/play/a02y
+#EXTINF:0 tvg-id="Babyfirstenglish.hu" group-title="Channels",BabyFirst
+http://45.71.185.142:8500/play/a002
+#EXTINF:0 tvg-id="CNNEspanol.cl" group-title="Channels",CNN Espanol
+http://45.71.185.142:8500/play/a00n
+#EXTINF:0 tvg-id="ext" group-title="Channels",Canal Claro
+http://45.71.185.142:8500/play/a03j
+#EXTINF:0 tvg-id="CanalEstrellas.sp" group-title="Channels",Canal Estrellas
+http://45.71.185.142:8500/play/a01m
+#EXTINF:0 tvg-id="cartoon" group-title="Channels",Cartoon Network
+http://45.71.185.142:8500/play/a00f
+#EXTINF:0 tvg-id="CinecanalW.mx" group-title="Channels",Cinecanal
+http://45.71.185.142:8500/play/a005
+#EXTINF:0 tvg-id="CinemaxO.mx" group-title="Channels",Cinemax
+http://45.71.185.142:8500/play/a02w
+#EXTINF:0 tvg-id="ext" group-title="Channels",Claro Cinema
+http://45.71.185.142:8500/play/a03r
+#EXTINF:0 tvg-id="ClaroSports.mx" group-title="Channels",Claro Sports
+http://45.71.185.142:8500/play/a03x
+#EXTINF:0 tvg-id="discov_rus" group-title="Channels",Discovery Channel
+http://45.71.185.142:8500/play/a018
+#EXTINF:0 tvg-id="DiscoveryKids.mx" group-title="Channels",Discovery Kids
+http://45.71.185.142:8500/play/a00m
+#EXTINF:0 tvg-id="DiscoveryTurbo.uk" group-title="Channels",Discovery Turbo
+http://45.71.185.142:8500/play/a039
+#EXTINF:0 tvg-id="disney" group-title="Channels",Disney Channel
+http://45.71.185.142:8500/play/a017
+#EXTINF:0 tvg-id="DisneyJunior.uk" group-title="Channels",Disney Jr
+http://45.71.185.142:8500/play/a013
+#EXTINF:0 tvg-id="ext" group-title="Channels",ECDF SD
+http://45.71.185.142:8500/play/a006
+#EXTINF:0 tvg-id="ESPN.uk" group-title="Channels",ESPN
+http://45.71.185.142:8500/play/a01e
+#EXTINF:0 tvg-id="ESPN2.mx" group-title="Channels",ESPN 2
+http://45.71.185.142:8500/play/a015
+#EXTINF:0 tvg-id="ext" group-title="Channels",ESPN CO
+http://45.71.185.142:8500/play/a06x
+#EXTINF:0 tvg-id="EcuadorTV.us" group-title="Channels",Ecuador TV
+http://45.71.185.142:8500/play/a026
+#EXTINF:0 tvg-id="ext" group-title="Channels",Ecuavisa
+http://45.71.185.142:8500/play/a02g
+#EXTINF:0 tvg-id="Enlace.us" group-title="Channels",Enlace
+http://45.71.185.142:8500/play/a00e
+#EXTINF:0 tvg-id="FX.uk" group-title="Channels",FX
+http://45.71.185.142:8500/play/a030
+#EXTINF:0 tvg-id="FOXSports1.us" group-title="Channels",Fox Sports 1
+http://45.71.185.142:8500/play/a021
+#EXTINF:0 tvg-id="FoxSports2.mx" group-title="Channels",Fox Sports 2
+http://45.71.185.142:8500/play/a01n
+#EXTINF:0 tvg-id="FoxSports3.mx" group-title="Channels",Fox Sports 3
+http://45.71.185.142:8500/play/a01o
+#EXTINF:0 tvg-id="GolTV.cl" group-title="Channels",GOL TV
+http://45.71.185.142:8500/play/a03b
+#EXTINF:0 tvg-id="ext" group-title="Channels",GamaTV
+http://45.71.185.142:8500/play/a027
+#EXTINF:0 tvg-id="HBOAdria.rs" group-title="Channels",HBO
+http://45.71.185.142:8500/play/a02v
+#EXTINF:0 tvg-id="HBO2.cz" group-title="Channels",HBO 2
+http://45.71.185.142:8500/play/a00z
+#EXTINF:0 tvg-id="Hbofamily.br" group-title="Channels",HBO Family
+http://45.71.185.142:8500/play/a012
+#EXTINF:0 tvg-id="Hboplus.br" group-title="Channels",HBO Plus
+http://45.71.185.142:8500/play/a010
+#EXTINF:0 tvg-id="Maxprime.br" group-title="Channels",HBO XTREME SD
+http://45.71.185.142:8500/play/a011
+#EXTINF:0 tvg-id="history-rus" group-title="Channels",History Channel
+http://45.71.185.142:8500/play/a004
+#EXTINF:0 tvg-id="HomeHealth.mx" group-title="Channels",HomeandHealth
+http://45.71.185.142:8500/play/a01w
+#EXTINF:0 tvg-id="mtv-rus" group-title="Channels",MTV
+http://45.71.185.142:8500/play/a008
+#EXTINF:0 tvg-id="natgeo" group-title="Channels",Nat Geo
+http://45.71.185.142:8500/play/a003
+#EXTINF:0 tvg-id="nick-jr" group-title="Channels",Nick Jr
+http://45.71.185.142:8500/play/a038
+#EXTINF:0 tvg-id="nickelodeon-rus" group-title="Channels",Nickelodeon
+http://45.71.185.142:8500/play/a001
+#EXTINF:0 tvg-id="ext" group-title="Channels",RCN Novelas
+http://45.71.185.142:8500/play/a03i
+#EXTINF:0 tvg-id="RTSSAT.rs" group-title="Channels",RTS
+http://45.71.185.142:8500/play/a034
+#EXTINF:0 tvg-id="otr" group-title="Channels",STAR CHANNEL
+http://45.71.185.142:8500/play/a00c
+#EXTINF:0 tvg-id="Space.br" group-title="Channels",Space
+http://45.71.185.142:8500/play/a02z
+#EXTINF:0 tvg-id="StudioUniversal.it" group-title="Channels",Studio Universal
+http://45.71.185.142:8500/play/a00t
+#EXTINF:0 tvg-id="SCIFI.uk" group-title="Channels",SyFy
+http://45.71.185.142:8500/play/a04h
+#EXTINF:0 tvg-id="24dok" group-title="Channels",TBS
+http://45.71.185.142:8500/play/a03k
+#EXTINF:0 tvg-id="ext" group-title="Channels",TC Television
+http://45.71.185.142:8500/play/a02d
+#EXTINF:0 tvg-id="TCM.uk" group-title="Channels",TCM
+http://45.71.185.142:8500/play/a00d
+#EXTINF:0 tvg-id="tnt" group-title="Channels",TNT
+http://45.71.185.142:8500/play/a00g
+#EXTINF:0 tvg-id="ext" group-title="Channels",TV+ HD
+http://45.71.185.142:8500/play/a03h
+#EXTINF:0 tvg-id="TVE.se" group-title="Channels",TVE
+http://45.71.185.142:8500/play/a00l
+#EXTINF:0 tvg-id="ext" group-title="Channels",Teleamazonas
+http://45.71.185.142:8500/play/a02h
+#EXTINF:0 tvg-id="Telemundo.mx" group-title="Channels",Telemundo
+http://45.71.185.142:8500/play/a01p
+#EXTINF:0 tvg-id="Warnerchannel.br" group-title="Channels",Warner
+http://45.71.185.142:8500/play/a01a
